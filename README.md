@@ -1,6 +1,6 @@
 # Byte Pair Encoding (BPE) Class
 
-This repository contains a Python implementation of the Byte Pair Encoding (BPE) algorithm taking inspiration from Karpathy and GPT-2 tokenization algorithm. BPE is a subword tokenization technique widely used in modern Natural Language Processing (NLP) pipelines, particularly for training large language models (LLMs). This implementation provides methods for training the BPE model, encoding a UTF-8 string into a list of tokens, and decoding tokens back into a string.
+This repository contains a Python implementation of the Byte Pair Encoding (BPE) algorithm taking inspiration from Karpathy's tutorial :) and GPT-2 tokenization algorithm. BPE is a subword tokenization technique widely used in modern Natural Language Processing (NLP) pipelines, particularly for training large language models (LLMs). This implementation provides methods for training the BPE model, encoding a UTF-8 string into a list of tokens, and decoding tokens back into a string.
 
 ## Overview
 
